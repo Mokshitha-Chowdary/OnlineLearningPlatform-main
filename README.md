@@ -124,7 +124,7 @@ online-learning-platform/
 
 ## 📍 Developed By
 
-**Mokshitha**  
+**Mokshitha KS**  
 Internship Final Year Project  
 Kolar, Karnataka, India
 
