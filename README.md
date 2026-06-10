@@ -124,7 +124,7 @@ online-learning-platform/
 
 ## 📍 Developed By
 
-**Pavan Kumar**  
+**Mokshitha**  
 Internship Final Year Project  
 Kolar, Karnataka, India
 
